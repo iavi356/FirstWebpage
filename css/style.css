@@ -1,0 +1,165 @@
+.container1{
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+     
+}
+
+.container {
+    background-color: #1F2937;
+    
+   
+}
+.container1 ul{
+    display:flex;
+
+    list-style: none;
+    gap: 20px;
+    justify-content: flex-end;
+}
+
+.content-left{
+    background-color: #1F2937;
+    display: flex;
+    color: white;
+    align-items: flex-start;  
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+}
+
+.p1{
+    width: 400px;
+    
+    
+}
+.showcase{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.content-right{
+    display:flex;
+    justify-content:center;
+    
+    
+}
+
+.image{
+    width: auto;
+    height: auto;
+    border: 1px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.b1{
+background-color: #3882F6;
+text-align: center;
+font-size: 14px;
+padding: 10px;
+color: white;
+border-radius: 20%;
+}
+
+.h1{
+    font-size: 60px;
+}
+
+.h2{
+    font-size: 40px;
+    text-align: center;
+}
+
+.imgtext{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+ 
+}
+
+.fastingtext{
+    display: flex;
+    justify-content: space-evenly;
+}
+.fast16, .fast18, .fast20, .fastOMAD{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+}
+
+
+
+
+.p16, .p18, .p20, .pOMAD{
+    width: 200px;
+    
+}
+
+.ptestimonial{
+font-size: 36px;
+width: 800px;
+font-style: italic;
+
+}
+    
+.contest{
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+.pname{
+    font-size: 20px;
+    margin-top: 400px;
+}
+.final{
+    display: flex;
+    background-color: white;
+    margin: 100px;
+    justify-content: center;
+    
+    
+    
+    
+
+}
+.semifinal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 35px;
+    background-color: #3882F6;
+    color: white;
+    border-style:inset;
+    gap: 500px;
+
+    
+   
+}
+.bfinal {
+    background-color: #3882F6;
+text-align: center;
+font-size: 14px;
+padding: 10px;
+color: white;
+border-radius: 20%;
+border-color: white;
+
+}
+
+.copyright{
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+    
+
+
+
+
